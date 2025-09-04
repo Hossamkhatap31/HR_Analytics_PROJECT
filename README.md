@@ -60,4 +60,4 @@ Tenure & Role vs. Income: Combined bar and line chart of average years at compan
 
 Attrition by Education & Income: Dual‐axis chart illustrating attrition counts by education level alongside monthly income.
 
- LinkedIn : ( https://www.linkedin.com/in/ahmed-elmorshidy-6551011bb/ ) – ahmed.elmorshidy2002@gmail.com
+ LinkedIn : ( http://linkedin.com/in/hossam-khatap-ab3104242 ) – khatabhossam88@gmail.com
