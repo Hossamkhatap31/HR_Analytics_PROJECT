@@ -34,8 +34,8 @@ The analysis uses anonymized HR data, including:
 
 ## 📊 Dashboard Highlights
 
-![Dashboard Overview](![439901479-2634ecd7-d489-4e13-a86f-bd5b8d19e3ca](https://github.com/user-attachments/assets/25ba33f4-f202-4d22-98d1-7ad67381c236)
-)  
+![439901479-2634ecd7-d489-4e13-a86f-bd5b8d19e3ca](https://github.com/user-attachments/assets/02d8b2f4-abe0-4c29-a78a-562b06b9c3b8)
+
 
 - *Active Employees:* Displays the total number of current employees (e.g., 1,242)  
 - *Average Job Satisfaction:* Shows the mean satisfaction score across all employees (e.g., 2.72)  
